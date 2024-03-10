@@ -1,6 +1,6 @@
 {
-  "name": "scroll",
-  "author": "Michael Rhodes",
+  "name": "scroll-build-tea",
+  "author": "simpletox",
   "version": "3.0.1",
   "main": "index.js",
   "repository": "git@github.com:michaelrhodes/scroll",
